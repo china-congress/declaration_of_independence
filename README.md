@@ -1,1 +1,4 @@
-# declaration_of_independence
+# 中国人的独立宣言
+
+本仓库收集各种版本的独立宣言，欢迎提交pull request
+
